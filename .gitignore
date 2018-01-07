@@ -57,3 +57,13 @@ typings/
 # dotenv environment variables file
 .env
 
+.vscode/branches/
+.vscode/hooks/
+.vscode/objects/info/
+.vscode/refs/tags/
+src/components/auth/
+src/components/conference/
+.vscode/
+
+.idea
+.idea/
