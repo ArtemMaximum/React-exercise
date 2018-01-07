@@ -1,4 +1,8 @@
 export * from './heading'
 export { Hint } from './hint'
+export { Field } from './field'
+export { Button } from './button'
+export { IconCircle } from './icon-circle'
+export { ProgressBarLine } from './progress-bar-line'
 export * from './layout'
 export { PrettyJson } from './pretty-json'

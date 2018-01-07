@@ -1,1 +1,1 @@
-export { SummaryPage } from './summary-page'
+export SummaryPage from './summary-page'

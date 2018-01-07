@@ -1,1 +1,5 @@
 export * from './category'
+export * from './step'
+export * from './step-item'
+export * from './progress-bar'
+export { StepsManager } from './steps-manager'

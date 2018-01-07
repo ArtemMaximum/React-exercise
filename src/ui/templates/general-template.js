@@ -2,7 +2,7 @@ import React from 'react'
 import PropTypes from 'prop-types'
 
 import { Footer, Header } from 'ui'
-import scheme from 'scheme'
+// import scheme from 'scheme'
 
 
 const PoweredBy = () => (
