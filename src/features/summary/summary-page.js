@@ -58,7 +58,8 @@ class SummaryPage extends Component {
     let newSteps = remove(stepId, 1, this.state.steps);
 
     this.setState({
-      steps: newSteps
+      steps: newSteps,
+      currentStep: 1
     });
   }
 
